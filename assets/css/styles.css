@@ -531,7 +531,7 @@ input#Menu-hamburguesa:checked ~ ul{
         font-size: 18px;
         font-size: 20px;
     }
-
+    
     .vector-3{
         visibility: hidden;
     }
